@@ -6,6 +6,10 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class OrangeHRM_AdminJob_JobTitles_DeleteJobTitlePage {
+	/****
+	 * * Author Pradeep *
+	 */
+	
 	WebDriver driver;
 	@FindBy(id="dialogDeleteBtn")
 	WebElement DeleteButton;

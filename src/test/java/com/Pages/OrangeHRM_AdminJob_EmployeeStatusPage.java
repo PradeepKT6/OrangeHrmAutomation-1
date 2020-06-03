@@ -6,6 +6,9 @@ import org.openqa.selenium.support.FindBy;
 import org.openqa.selenium.support.PageFactory;
 
 public class OrangeHRM_AdminJob_EmployeeStatusPage {
+	/****
+	 * * Author Pradeep *
+	 */
 	WebDriver driver;
 	@FindBy(id="btnAdd")
 	WebElement Add;

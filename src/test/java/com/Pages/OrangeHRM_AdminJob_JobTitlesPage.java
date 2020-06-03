@@ -7,6 +7,10 @@ import org.openqa.selenium.support.PageFactory;
 import org.openqa.selenium.support.ui.Select;
 
 public class OrangeHRM_AdminJob_JobTitlesPage {
+	/****
+	 * * Author Pradeep *
+	 */
+	
 	WebDriver driver;
 	@FindBy(id="btnAdd")
     WebElement AddButton;	
